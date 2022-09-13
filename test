@@ -1,0 +1,4 @@
+import pyqutogui
+
+pyautogui.moveTo(50,70)
+pyautogui.click()
